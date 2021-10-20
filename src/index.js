@@ -12,8 +12,8 @@ const theme = extendTheme({
   },
 });
 
-const moralisAppId = "77IfzDQc5dLFD3YbNKeuNrxHGe2c5OWGoMxgfLTU";
-const moralisServerURL = "https://ioc7ccqovdu5.grandmoralis.com:2053/server";
+const moralisAppId = "C7jm7bQ6V1iBuqE7R08S5s3GijWDwqZYa26QNGfr";
+const moralisServerURL = "https://niryzsqd3fmk.bigmoralis.com:2053/server";
 
 ReactDOM.render(
   <React.StrictMode>
